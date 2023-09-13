@@ -14,5 +14,5 @@ In Mac OS and Linux you can use python IDE and download this file and install it
 ## Usage
 It will receive link of your data and will load, after running the programm, you will see the calculations of the programm.
 ```
-./my_nba_game_analysis.py warriors_thunder_20181016.txt lazers_lakers_20181012.txt
+git@github.com:IrodaRadjabova/nba_game_analysis.git
 ```
